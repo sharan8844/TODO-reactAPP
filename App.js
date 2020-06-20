@@ -15,7 +15,7 @@ class  App extends Component{
       },
       {
         id:2,
-        title:'take out chaddi',
+        title:'take out mask',
         done:false                
       },
       {
